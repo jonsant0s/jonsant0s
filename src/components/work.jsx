@@ -26,6 +26,30 @@ export default class Work extends Component {
                   </div>
                 </div>
               </div>
+              <div className="row">
+                <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+                  <div className="project" style={{backgroundImage: 'url(images/stoodis.png)'}}>
+                    <div className="desc">
+                      <div className="con">
+                        <h3><a href="https://github.com/Team-N9/productivity">Stoodis</a></h3>
+                        <span>Productivity App</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="row">
+                <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+                  <div className="project" style={{backgroundImage: 'url(images/fireforce9.png)'}}>
+                    <div className="desc">
+                      <div className="con">
+                        <h3><a href="https://github.com/jonsant0s/Fireforce9">Fire Force No. 9</a></h3>
+                        <span>Java Game</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </section>
         </div>
