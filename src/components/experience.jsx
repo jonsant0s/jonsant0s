@@ -35,7 +35,7 @@ export default class Experience extends Component {
                               <i className="icon-pen2"></i>
                            </div>
                            <div className="timeline-label">
-                            <h2><a href="#">IT Technical Analyst at University of Calgary</a> <span>2020-2021</span></h2>
+                            <h2><a href="#">IT Technical Analyst Intern at University of Calgary</a> <span>2020-2021</span></h2>
                               <p>Projects: Group File Share Automation (ServiceNow, PowerShell, User Acceptance Testing)</p>
                            </div>
                         </div>
