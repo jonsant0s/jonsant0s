@@ -19,7 +19,7 @@ export default class Education extends Component {
                     <div className="panel panel-default">
                         <div className="panel-heading" role="tab" id="headingOne">
                             <h4 className="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelors Degree Economics & Computer Science
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Bachelor of Science: Mathematics {'&'} Computer Science
                                 </a>
                             </h4>
                         </div>
@@ -27,10 +27,10 @@ export default class Education extends Component {
                              <div className="panel-body">
                                 <div className="row">
                                 <div className="col-md-6">
-                                  <p>University of Calgary 2016-Present </p>
+                                  <p>University of Calgary, 2023</p>
                                 </div>
                                 <div className="col-md-6">
-                                  <p>Notable Courses: Econometrics, Data Structures and Algorithms</p>
+                                  <p>Notable Courses: Data Structures and Algorithms, Computing Machinery, Computer Networks, Software Engineering, Databases</p>
                                 </div>
                               </div>
                              </div>

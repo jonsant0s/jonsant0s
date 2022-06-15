@@ -17,6 +17,8 @@ export default class Navigation extends Component {
                   <ul>
                     <li className="active"><a href="#home" data-nav-section="home">Home</a></li>
                     <li><a href="#about" data-nav-section="about">About</a></li>
+                    <li><a href="#skills" data-nav-section="skills">Skills</a></li>
+                    <li><a href="#experience" data-nav-section="experience">Experience</a></li>
                     <li><a href="#work" data-nav-section="work">Projects</a></li>
                   </ul>
                 </div>

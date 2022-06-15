@@ -16,6 +16,18 @@ export default class Work extends Component {
               </div>
               <div className="row">
                 <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+                  <div className="project" style={{backgroundImage: 'url(images/groupee.png)'}}>
+                    <div className="desc">
+                      <div className="con">
+                        <h3><a href="https://github.com/jonsant0s/groupee">Groupee</a></h3>
+                        <span>Java Game</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="row">
+                <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
                   <div className="project" style={{backgroundImage: 'url(images/uScholar.png)'}}>
                     <div className="desc">
                       <div className="con">

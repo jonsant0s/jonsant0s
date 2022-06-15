@@ -14,8 +14,8 @@ export default class About extends Component {
                       <span className="heading-meta">About</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p><strong> Hi I'm Jonathan.</strong> Currently a student at the University of Calgary studying Mathematics and Computer Science.</p>
-                      <p> In my previous internship and now permanent role as a Technical Analyst, I have implemented automation features to our main IT enterprise software called ServiceNow. I have also troubleshooted various bugs in the IT department's inventory management system making point-changes developed in C#, as well as writing scripts in PowerShell to convert large amounts of file data.  </p>
-                      <p>My sole interests lie in Web and Mobile development, while dabbling in Data Science. I also have a strong desire to learn and collaborate with others.</p>
+                      <p> In my previous internship and now permanent role as a Technical Analyst, I have implemented automation features to our main IT enterprise software called ServiceNow. I have also developed an extensive GUI for users to make changes within the University's server directory as well as troubleshooted various bugs in the IT department's inventory management system. </p>
+                      <p>My sole interests lie in Web/Software development, and Data Science. I also have a strong desire to learn and collaborate with others.</p>
                     </div>
                   </div>
                 </div>
@@ -26,7 +26,7 @@ export default class About extends Component {
                       <span className="icon2"><i className="icon-globe-outline" /></span>
                       <h3>Front End Development</h3>
                       <p>
-                        <strong> Languages:</strong> <div>React.js, HTML, CSS, React Native  </div>
+                        <strong> Languages:</strong> <div>React.js, HTML, CSS, React Native, C#  </div>
                         <strong> Tools: </strong> <div>Material-UI, Redux </div>
                       </p>
                     </div>
@@ -56,7 +56,7 @@ export default class About extends Component {
                       <h3>Data Analysis</h3>
                       <p>
                         <strong> Languages:</strong> <div>Python, R</div>
-                        <strong> Tools: </strong> <div>Stata, Excel</div>
+                        <strong> Tools: </strong> <div>Excel</div>
                       </p>
                     </div>
                   </div>

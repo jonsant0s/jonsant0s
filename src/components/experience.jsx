@@ -15,29 +15,16 @@ export default class Experience extends Component {
             <div className="row">
               <div className="col-md-12">
                    <div className="timeline-centered">
-                     <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                        <div className="timeline-entry-inner">
-
-                           <div className="timeline-icon color-1">
-                              <i className="icon-pen2"></i>
-                           </div>
-
-                           <div className="timeline-label">
-                              <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
-                              <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
-                           </div>
-                        </div>
-                     </article>
-
-
                      <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
                         <div className="timeline-entry-inner">
                            <div className="timeline-icon color-2">
                               <i className="icon-pen2"></i>
                            </div>
                            <div className="timeline-label">
-                            <h2><a href="#">Front End Developer at Google Company</a> <span>2017-2018</span></h2>
-                              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                            <h2><a href="#">Technical Systems Analyst at University of Calgary</a> <span>2021-Present</span></h2>
+                              <p>Projects: Access Management Utilites Software (C#, .NET, PowerShell), Hardware Inventory Management System (C#, .NET, PowerShell, SQL).
+                                 Versioning for both projects done in GitLab.
+                              </p>
                            </div>
                         </div>
                      </article>
@@ -48,32 +35,8 @@ export default class Experience extends Component {
                               <i className="icon-pen2"></i>
                            </div>
                            <div className="timeline-label">
-                            <h2><a href="#">System Analyst</a> <span>2017-2018</span></h2>
-                              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                           </div>
-                        </div>
-                     </article>
-
-                     <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
-                        <div className="timeline-entry-inner">
-                           <div className="timeline-icon color-4">
-                              <i className="icon-pen2"></i>
-                           </div>
-                           <div className="timeline-label">
-                            <h2><a href="#">Creative Designer</a> <span>2017-2018</span></h2>
-                              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-                           </div>
-                        </div>
-                     </article>
-
-                     <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                        <div className="timeline-entry-inner">
-                           <div className="timeline-icon color-5">
-                              <i className="icon-pen2"></i>
-                           </div>
-                           <div className="timeline-label">
-                            <h2><a href="#">UI/UX Designer at Envato</a> <span>2017-2018</span></h2>
-                              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                            <h2><a href="#">IT Technical Analyst at University of Calgary</a> <span>2020-2021</span></h2>
+                              <p>Projects: Group File Share Automation (ServiceNow, PowerShell, User Acceptance Testing)</p>
                            </div>
                         </div>
                      </article>
