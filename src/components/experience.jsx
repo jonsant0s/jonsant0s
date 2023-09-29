@@ -21,7 +21,19 @@ export default class Experience extends Component {
                               <i className="icon-pen2"></i>
                            </div>
                            <div className="timeline-label">
-                            <h2><a href="#">Technical Systems Analyst at University of Calgary</a> <span>2021-Present</span></h2>
+                           <h2><a href="#">Senior Analyst at The Bank of Nova Scotia (Scotiabank)</a> <span>2023-Present</span></h2>
+                              <p>Projects: Google Authentication Automation Tool (Python, Selenium, AutoIT), Sonrai-API Data Extraction (Python, Excel)
+                              </p>
+                           </div>
+                        </div>
+                     </article>
+                     <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
+                        <div className="timeline-entry-inner">
+                           <div className="timeline-icon color-3">
+                              <i className="icon-pen2"></i>
+                           </div>
+                           <div className="timeline-label">
+                            <h2><a href="#">Technical Systems Analyst at University of Calgary</a> <span>2021-2023</span></h2>
                               <p>Projects: Access Management Utilites Software (C#, .NET, PowerShell), Hardware Inventory Management System (C#, .NET, PowerShell, SQL).
                                  Versioning for both projects done in GitLab.
                               </p>
@@ -31,11 +43,11 @@ export default class Experience extends Component {
 
                      <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                         <div className="timeline-entry-inner">
-                           <div className="timeline-icon color-3">
+                           <div className="timeline-icon color-1">
                               <i className="icon-pen2"></i>
                            </div>
                            <div className="timeline-label">
-                            <h2><a href="#">IT Technical Analyst Intern at University of Calgary</a> <span>2020-2021</span></h2>
+                            <h2><a href="#">IT Internship at University of Calgary</a> <span>2020-2021</span></h2>
                               <p>Projects: Group File Share Automation (ServiceNow, PowerShell, User Acceptance Testing)</p>
                            </div>
                         </div>

@@ -35,6 +35,16 @@ export default class Skills extends Component {
               </div>
               <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
                 <div className="progress-wrap">
+                  <h3>Python</h3>
+                  <div className="progress">
+                    <div className="progress-bar color-6" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} style={{width: '90%'}}>
+                      <span>90%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+                <div className="progress-wrap">
                   <h3>C/C++</h3>
                   <div className="progress">
                     <div className="progress-bar color-5" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{width: '80%'}}>
@@ -75,17 +85,7 @@ export default class Skills extends Component {
               </div>
               <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
                 <div className="progress-wrap">
-                  <h3>Python</h3>
-                  <div className="progress">
-                    <div className="progress-bar color-6" role="progressbar" aria-valuenow={70} aria-valuemin={0} aria-valuemax={100} style={{width: '70%'}}>
-                      <span>70%</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-                <div className="progress-wrap">
-                  <h3>SQL/mySQL</h3>
+                  <h3>SQL/MySQL</h3>
                   <div className="progress">
                     <div className="progress-bar color-2" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{width: '80%'}}>
                       <span>80%</span>
